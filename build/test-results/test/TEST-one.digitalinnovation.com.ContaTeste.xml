@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="one.digitalinnovation.com.ContaTeste" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-09T04:34:27" hostname="DESKTOP-8H9FV8U" time="0.03">
+  <properties/>
+  <testcase name="validaOperacaoTransferencia()" classname="one.digitalinnovation.com.ContaTeste" time="0.026"/>
+  <testcase name="validaOperacaoDeposito()" classname="one.digitalinnovation.com.ContaTeste" time="0.001"/>
+  <testcase name="validaOperacaoSaque()" classname="one.digitalinnovation.com.ContaTeste" time="0.001"/>
+  <system-out><![CDATA[OperaÃ§Ã£o efetuada com sucesso!
+Novo saldo: $100.0
+OperaÃ§Ã£o efetuada com sucesso!
+Novo saldo: $10.0
+OperaÃ§Ã£o efetuada com sucesso!
+Novo saldo: $100.0
+OperaÃ§Ã£o efetuada com sucesso!
+Novo saldo: $100.0
+OperaÃ§Ã£o efetuada com sucesso!
+Novo saldo: $10.0
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
