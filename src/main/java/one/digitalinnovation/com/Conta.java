@@ -32,7 +32,6 @@ public abstract class Conta implements IConta {
     public void sacar(double valor) {
         if (saldo > valor) {
             saldo -= valor;
-
             mensagemOperacaoStatus("success");
         } else {
             mensagemOperacaoStatus("failure");
